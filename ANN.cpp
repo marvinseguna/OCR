@@ -6,7 +6,6 @@
 #include <iostream>
 #include "ANN.h"
 #include "Helper.h"
-#include <vector>
 
 /*! These 2 arrays are used in the Back-Propagation algorithm in conjunction
 with the MOMENTUM constant.
